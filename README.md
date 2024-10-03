@@ -10,3 +10,5 @@ Essa é a primeira versão do meu site, em desenvolvimento há cerca de 6 meses 
 **Próximas atualizações**:
 
 Possivelmente algumas implementações em React Node. Estou ainda desenvolvendo ideais e aplicando elas, não estou com pressa, pois tenho outros projetos mais importantes.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
